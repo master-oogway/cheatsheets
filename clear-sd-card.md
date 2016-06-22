@@ -1,5 +1,5 @@
 # Clear SD card
 
-Open Terminal, type cd /Volumes/<your thumb drive> and type:
-
-rm -rf ._.Trashes .Trashes/ .Spotlight-V100/ .fseventsd/
+1. Open Terminal
+2. `cd /Volumes/<your thumb drive>`
+3. `rm -rf ._.Trashes .Trashes/ .Spotlight-V100/ .fseventsd/`
